@@ -15,9 +15,10 @@
 </p>
 
 ## About Me
-* Degree in **Data Science and Engineering**.
-* **Linux enthusiast** deeply invested in custom dotfiles, automation, and optimizing workflows.
-* Actively solving Leetcode challenges in **C++** and **Python** [LeetCode Solutions Repository](https://github.com/shalom2552/leetcode).
+* Degree in **Data Science and Engineering** from the Technion.
+* **Linux enthusiast** deeply invested in custom dotfiles, and automation. [Dotfiles](https://github.com/shalom2552/dotfiles) | [Hyprland config](https://github.com/shalom2552/hyprconf) | [nvim](https://github.com/shalom2552/nvim)
+* Actively solving Leetcode challenges in **C++** and **Python**. [LeetCode Solutions Repository](https://github.com/shalom2552/leetcode)
+* Built terminal-based projects including a [2048 game](https://github.com/shalom2552/2048), a [Minimax game](https://github.com/shalom2552/terminal-minimax-game) and a [Chat app](https://github.com/shalom2552/wasup).
 * Focused on backend development and system configuration.
 
 ## Activity
